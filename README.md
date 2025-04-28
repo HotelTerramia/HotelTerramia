@@ -14,7 +14,9 @@ Somos el **Hotel Terramia Resort & Spa**, un referente en **Bolivia** que combin
 
 ### [🔗 Hotel Booking System](https://github.com/tuhotel/booking-system)  
 _Plataforma de reservas desarrollada con React y Node.js_  
-- **Stack**: React, Node.js, MongoDB  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev) 
+  [![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com)
+  [![ABAP](https://img.shields.io/badge/-ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
 - **Impacto**: Reducción del 30% en reservas telefónicas.  
 
 ### [🔗 Smart Room IoT](https://github.com/tuhotel/smart-room-iot)  
@@ -26,12 +28,13 @@ _Sistema IoT para gestión de habitaciones_
 - 👐 **Contribución a [Proyecto Turístico Open Source](https://github.com/tucontribucion)**: Mejoras en APIs de geolocalización.  
 - 🏆 **Hackathon 2023**: Ganadores del reto "Turismo Sostenible con Tecnología".  
 
-## 🖥️ Nuestro Stack Tecnológico  
-![IoT](https://img.shields.io/badge/-IoT-FF6F61?logo=arduino&logoColor=white)
-![Web](https://img.shields.io/badge/-Web_Dev-4B32C3?logo=react&logoColor=white)  
-![Data](https://img.shields.io/badge/-Data_Analytics-00C7B7?logo=python&logoColor=white)  
-
-**Herramientas Favoritas**: AWS, Docker, PostgreSQL, Figma.
+## 🖥️ Nuestro Stack Tecnológico   
+**Herramientas Favoritas**: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,aws,docker,postgres,figma" />
+  </a>
+</p>
 
 ## 🤝 ¡Colaboremos!  
 ¿Eres desarrollador, diseñador o apasionado por el turismo y la tecnología?  
